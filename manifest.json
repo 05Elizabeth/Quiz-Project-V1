@@ -1,12 +1,12 @@
 {
-    "theme_color": "#090909",
-    "background_color": "#ffffff",
+    "theme_color": "#ffc300",
+    "background_color": "#b69be8",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/index.html",
-    "name": "Star Trek The Next Generation Quiz",
-    "short_name": "ST Quiz",
-    "description": "A quiz about Star Trek The Next Generation TV Show.",
+    "start_url": "/",
+    "description": "A 10 question quiz about  FRIENDS the TV show",
+    "name": "FRIENDS the TV Series Quiz",
+    "short_name": "FRIENDS Quiz ",
     "icons": [
         {
             "src": "icons/icon-192x192.png",
